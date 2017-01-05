@@ -1,0 +1,2 @@
+[-] Scanning Range 25000-65535 on 87.98.139.162!
+- Found Server on 87.98.139.162:25565! (Protocol=127, Software=BungeeCord 1.8.x, 1.9.x, 1.10.x, 1.11.x Players=239/500)
